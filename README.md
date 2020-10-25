@@ -1,6 +1,6 @@
 # Weather App PWA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Open Weather API](https://openweathermap.org).
 
 ## Available Scripts
 
